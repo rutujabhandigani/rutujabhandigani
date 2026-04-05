@@ -1,8 +1,8 @@
 <h2 align = 'center'> Hi, I’m Rutuja </h2>
 
-- I love experimenting with data to optimize high-impact projects and drive revenue. I turn complex data into the “why” behind critical decisions. Whether it’s market sizing, customer segmentation, or product insights, I enjoy breaking down ambiguous problems and delivering recommendations that influence strategy at the executive level.
+I love experimenting with data to optimize high-impact projects and drive revenue. I turn complex data into the “why” behind critical decisions. Whether it’s market sizing, customer segmentation, or product insights, I enjoy breaking down ambiguous problems and delivering recommendations that influence strategy at the executive level.
 
-- My Toolkit: 
+My Toolkit: 
     • Technical: SQL, Data Visualization, Data Science, Business Analytics.
     • Domain: Healthcare Consulting, Marketing Analytics, Commercial Strategy.
 
