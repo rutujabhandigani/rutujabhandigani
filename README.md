@@ -3,11 +3,12 @@
 I love experimenting with data to optimize high-impact projects and drive revenue. I turn complex data into the “why” behind critical decisions. Whether it’s market sizing, customer segmentation, or product insights, I enjoy breaking down ambiguous problems and delivering recommendations that influence strategy at the executive level.
 
 My Toolkit: <br>
-    • Technical: SQL, Data Visualization, Data Science, Business Analytics<br>
+    • Technical: SQL, Python, Tableau, AWS <br>
+    • Skills: Data Analysis, Data Visualization, Machine Learning, Business Analytics<br>
     • Domain: Healthcare Consulting, Marketing Analytics, Commercial Strategy
 
 When I’m not in spreadsheets:
-I’m likely scouting the city for the perfect matcha or a hidden-gem coffee shop—current obsession: ube lattes. On weekends, you’ll find me watching Formula 1.
+I’m likely scouting the city for the perfect matcha or a hidden-gem coffee shop (current obsession: ube lattes). On weekends, you’ll find me watching Formula 1.
 
 If you’re still reading, let’s chat.
 
