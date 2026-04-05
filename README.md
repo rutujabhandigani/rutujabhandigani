@@ -1,21 +1,20 @@
 <h2 align = 'center'> Hi, I’m Rutuja </h2>
 
-- A data science aficionado with a strong educational and professional background in Data Science & Advanced Analytics, keenly interested in combining my technical skills with business acumen to implement data-driven solutions.
-- My current learnings and project explorations are in these domains:
+- I love experimenting with data to optimize high-impact projects and drive revenue. I turn complex data into the “why” behind critical decisions. Whether it’s market sizing, customer segmentation, or product insights, I enjoy breaking down ambiguous problems and delivering recommendations that influence strategy at the executive level.
 
-    •   **Data Science**- Data Mining, Big Data Analysis, Recommender Systems, Predictive Modeling, Forecasting, Dashboard Building
-    
-    •	**Machine Learning**- Regression, Classification, Clustering, Marketing Mix Models, Generalized Linear Models, Linear Mixed-Effect Models
-    
-    •	**Natural Language Processing**- HMMs for POS tagging, Word Embedding, LSTMs, Text Summarization, Text-to-Speech and Speech-to-Text conversion, Sentiment Analysis and Opinion Mining
-    
-    •	**Deep Learning**- ANN, CNN, RNN, Auto Encoders, GAN
- 
+- My Toolkit: 
+    • Technical: SQL, Data Visualization, Data Science, Business Analytics.
+    • Domain: Healthcare Consulting, Marketing Analytics, Commercial Strategy.
+
+When I’m not in spreadsheets:
+I’m likely scouting the city for the perfect matcha or a hidden-gem coffee shop—current obsession: ube lattes. On weekends, you’ll find me watching Formula 1.
+
+If you’re still reading, let’s chat.
 
 
   <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujabhandigani&layout=compact&hide_border=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2>📫 How to reach me:</h2>
 
